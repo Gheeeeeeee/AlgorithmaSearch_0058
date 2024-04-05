@@ -32,6 +32,9 @@ void input()
 }
 
 void LinearSearch()
+{
+	char ch;
+}
 
 
 
